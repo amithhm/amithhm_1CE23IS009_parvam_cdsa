@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Assignment"
+		}
+	],
+	"settings": {
+		"C_Cpp.errorSquiggles": "enabled",
+		"files.autoSaveWhenNoErrors": false,
+		"typescript.tsserver.web.projectWideIntellisense.suppressSemanticErrors": true,
+		"debug.javascript.breakOnConditionalError": true,
+		"files.autoSave": "afterDelay",
+		"files.associations": {
+			"TEST.C": "cpp"
+		}
+	}
+}
