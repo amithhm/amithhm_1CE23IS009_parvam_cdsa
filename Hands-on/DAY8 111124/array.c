@@ -11,9 +11,16 @@ Syntax: type variable[sizeN]={el1,el2,el3, ... , elN} or store and access using 
 */
 #include <stdio.h>
 int main(){
-    int a[]={10,20,30,40,50};
-    int n=5;
-    for(int i=0;i<6;i++){
-        printf("%d\n",a[i]);
+    int a[]={10,23,30,45,50};
+    int c=0;
+    int n=sizeof(a)/sizeof(a[0]);
+    for(int i=n-1;i>=0;i--){
+        c=c+a[i];
+    }
+    printf("%d\n",c);
+    for(int i=n-1;i>=0;i--){
+        if(a[i]%2==1){
+            printf("%d is odd\n",a[i]);
+        }
     }
 }
