@@ -2,9 +2,9 @@
 /*
 Day3:
 1. Iterative Statements
-    a. while
+    a. while - unknown number of iteration
     b.do-while
-    c.for
+    c.for - known number of iteration
     d.for each
 */
 int main(){

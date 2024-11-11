@@ -1,4 +1,7 @@
 #include<stdio.h>
+/*
+Changing the Case using ASCII operation
+*/
 int main(){
     char ch;
     printf("Enter a small letter: \n");

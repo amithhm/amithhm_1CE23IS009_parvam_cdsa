@@ -1,5 +1,6 @@
 #include <stdio.h>
 /*
+DAY6:
 String Implementation:
     a. Array implementation
     b. Pointer Implementation

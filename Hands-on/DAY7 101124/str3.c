@@ -1,4 +1,5 @@
 /*
+DAY7:
 String Built-in Function:
 1. strlen() - Counts the # of characters in the length;
 2. strcmp() - Compares the two strings and returns 0 (True) and 1 (False);

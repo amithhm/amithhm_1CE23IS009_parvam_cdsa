@@ -1,5 +1,9 @@
 #include <stdio.h>
 #include <string.h>
+/*
+DAY7:
+Inputs a string and counts the number of vowels preset in the string
+*/
 int countString(char str[100]){
     int count=0;
     for(int i=0;str[i]!='\0';i++){

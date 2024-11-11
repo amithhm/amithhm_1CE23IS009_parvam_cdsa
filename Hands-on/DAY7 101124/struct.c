@@ -1,4 +1,5 @@
 /*
+DAY7:
 Structure is user defined datatype having similar and dissimilar datatype
 composite datatype
 1. Atomic Datatype -> one datatype built-in datatype (int,float,...,etc)

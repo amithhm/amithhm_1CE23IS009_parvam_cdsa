@@ -4,7 +4,8 @@ DAY4:
 Introduction to:
 a. Stack segment
 b. Heap segment
-c. 
+c. Data segment
+d. Cod esegment
 Adding using Functions
 */
 int sum(int p,int q){

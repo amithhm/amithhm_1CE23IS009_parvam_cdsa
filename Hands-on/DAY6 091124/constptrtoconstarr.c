@@ -1,5 +1,6 @@
 #include <stdio.h>
 /*
+DAY6:
 int * const arr[]={4,5,6,200,13,7};
 The array is constant not *arr 
 */

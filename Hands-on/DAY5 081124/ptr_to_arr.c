@@ -1,5 +1,6 @@
 #include <stdio.h>
 /*
+DAY5:
 1. Pointer to Array
 */
 int main(){
